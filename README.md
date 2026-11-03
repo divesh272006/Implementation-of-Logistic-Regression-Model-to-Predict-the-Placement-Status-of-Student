@@ -1,6 +1,4 @@
 # EXPERIMENT 5 : IMPLEMENTATION OF LOGISTIC REGRESSION MODEL TO PREDICT THE PLACEMENT STATUS OF STUDENT 
-## NAME : PRAMISHA P
-## REGISTRATION NUMBER : 212224230203 
 
 ## AIM:
 To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
